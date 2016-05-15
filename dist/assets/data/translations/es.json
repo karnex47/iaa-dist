@@ -1,0 +1,156 @@
+
+{
+  "en": "English",
+  "es": "Español",
+  "nav": {
+    "menu": "Menú",
+    "home": "Inicio",
+    "about": "Sobre",
+    "dojos": "Dojo",
+    "gallery": "Galeria"
+  },
+  "home": {
+    "welcome": "Bienvenidos!",
+    "billSosa": "Fundado por Bill Sosa Sensei en 1995, y establecido en Dallas, Texas, U.S.A., la asociación internacional de Aikido consiste en dojos afiliados en los estados unidos y en México. IAA proporciona un ambiente en sus dojos que no es competitivo, sino mas como familia, observando valores tradicionales de la cortesía y del respecto.",
+    "ueshiba": "Aikido es un arte marcial fundado por Morihei Ueshiba en Japón en los-1920's. Tiene elementos del Jujitsu y del Judo. Aikido traducido significa el camino de la armonía.",
+    "aboutAikido" : "Aprendemos unir más bien que oponer, la fuerza de un ataque. La idea es olvidarse del uno mismo, y seguir el movimiento del opositor. De esta manera, usando y mezclando la misma energía del oponente se derrota al opositor."
+  },
+  "about": {
+    "founder": {
+      "title": "Sobre el Fundaddor",
+      "paragraphs": [
+        "El Señor Baldemar Sosa comenzo su trayectoria en Aikido cuando tenia mas o menos 30 años de edad. Después del entrenamiento de varios otras formas de artes marciales, él entendío muy bien las muchas ventajas que Aikido tuvo que ofrecer.",
+        "Como fue interesado en los estudios que pertenecen a la mente pero también de clase espiritual, él sentía que Aikido ofrecia ambos. Sensei Sosa, como le llamaron, sentía que el entrenamiento de Aikido presentaba una manera de adquirir energía física y utilizarla de una manera apropiada y ventajosa.",
+        "Él también creyó que la misma energía se podría desarrollar en el entrenamiento y utilizar en la vida diaria.",
+        "Él entendía el principio de \"Ki\" acentuado en Aikido y aprendio utilizarlo con eficacia. Debido al indole espiritual y sus principios de la resolución pacífica, el creyó que muchos conflictos podrían ser resueltos si esos conceptos fueron practicados en serio. Él también sabía que si las técnicas de Aikido fueran aprendidas y llegar ser dominadas, Aikido demostraría ser un medio muy eficiente de la autodefensa.",
+        "Cuando es practicado y ejecutado por los practicantes doctos, Aikido es un arte martial muy flúido y lleno de gracia. Es un arte que se puede adaptar al tamaño de la persona. Un individuo con una estatura grande ejecutará una técnica muy diferente que una persona con una estatura pequeña que por ejemplo utilice la técnica en ventaja a su tamaño. Por lo tanto la técnica de cada individuo parecerá totalmente diferente pero serán iguales en eficacia.",
+        "Junto con este conocimiento de la forma y de la estrategia, Sensei Sosa tenía la ventaja de aprender de maestros excelentes durante su estudio de Aikido. Estando de la altura y del tamaño mediano él presentó sus técnicas de Aikido suavemente y sin esfuerzo. Él practicó y enseñó el arte de una manera práctica que puede ser útil en situaciones de la vida diaria mientras que todavía mantiene los principios de Aikido.",
+        "Sensei Sosa presentó y compartio Aikido con muchos grupos a través de los Estados Unidos y continuó su enseñanza hasta su muerte en 2002. El dojo ahora está bajo la dirección de su hijo mayor, Rick Sosa quien comenzo su enseñanza de Aikido con su padre durante su niñez."
+      ]
+    },
+    "chiefInstructor": {
+      "title": "Sobre el instructor en jefe",
+      "paragraphs": [
+        "El instructor principal de la Asociación Internacional de Aikido es el hijo mayor del fundador, el Maestro Baldemar (Bill) Sosa. El Maestro Rick Sosa, 6to. Dan, ha practicado Aikido desde que fue muy joven, cuando su padre lo inició en ese arte.",
+        "El Maestro Bill Sosa y su hijo practicaron con los Maestros Isao Takahashi y Koichi Tohei en los primeros años de su práctica de Aikido.",
+        "El Maestro Rick Sosa tambien practicó Aikido en Japón durante su carrera militar, y tiene mucha experiencia en otras artes marciales, incluyendo Thai Boxing y Kali-Escrima.",
+        "Su percepción y abilidad le dan la ventaja de poder observar y redirigir la energía del oponente de una manera efectiva. Su dedicación a Aikido le ayuda a presentar el arte de una manera práctica, mientras mantiene los valores de cortesía y respeto.",
+        "El Señor Sosa es quien llevó por primera vez Aikido, Thai Boxing y Kali a la comunidad de Monterey (Méjico) y tiene filiales allá. Él es el director para Méjico y el Estado de Texas de la Asociación de Boxeo Thai de Norte América, de la cual el Maestro Surachai \"Chai\" Sirisute es presidente.",
+        "Aikido es la forma perfecta de ejercicio. Así como darle a uno el estudio de la autodefensa, guardará el funcionamiento de la mente y del cuerpo. El dojo proporciona un ambiente cómodo en el cual uno pueda entrenar ha su propio velocidad. Cualquier sea su edad o razón del estudio, con el entrenamiento constante, un estudiante transformará su capacidades físicas y mentales junto con confianza en sí mismo."
+      ]
+    }
+  },
+  "dojos": {
+    "chiefInstructor": "Instructor en Jefe",
+    "instructors": "Los instructores",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "website": "Sitio web",
+    "dojos" :[
+      {
+        "title" : "Asociación Internacional de Aikido - Dojo principal.",
+        "image": "assets/img/no-image-available.jpg",
+        "chiefInstructor": {
+          "name": "Maestro Rick Sosa",
+          "accolade": ""
+        },
+        "instructors": [],
+        "address": {
+          "line1": "726 West Jefferson Blvd.",
+          "line2": "Dallas, Texas 75208"
+        },
+        "phone": "(214)-331-6696",
+        "website": "",
+        "email": "angela.sosa@sbcglobal.net"
+      },
+      {
+        "title" : "University Aikido Club",
+        "image": "assets/img/no-image-available.jpg",
+        "chiefInstructor": {
+          "name": "Joel Quintans",
+          "accolade": ""
+        },
+        "instructors": [],
+        "address": {
+          "line1": "University of Texas at Arlington.",
+          "line2": ""
+        },
+        "phone": "(817)-272-5705",
+        "website": "http://www.uta.edu/student_orgs/aikido",
+        "email": "aikido@uta.edu"
+      },
+      {
+        "title" : "Sierra Montana Recreation Center",
+        "image": "assets/img/no-image-available.jpg",
+        "chiefInstructor": {
+          "name": "Sensei Charles Lewis",
+          "accolade": "6th Dan"
+        },
+        "instructors": [],
+        "address": {
+          "line1": "14861 Spring Lane Surprise,",
+          "line2": "Arizona, 85374"
+        },
+        "phone": "(623)-222-2251, (623)-734-0067",
+        "website": "",
+        "email": "aikilew@aol.com"
+      },
+      {
+        "title" : "SoVesaGa Dojo",
+        "image": "assets/img/no-image-available.jpg",
+        "chiefInstructor": {
+          "name": "Maestro Juan H. Vega García",
+          "accolade": "6th Dan"
+        },
+        "instructors": ["Toho Kami", "Eumi Tami"],
+        "address": {
+          "line1": "Monterrey, N.L. México",
+          "line2": ""
+        },
+        "phone": "011-52-(818)-349-7474",
+        "website": "",
+        "email": "jftrevinos@hotmail.com"
+      },
+      {
+        "title" : "M.A. Skills-Dojo",
+        "image": "assets/img/no-image-available.jpg",
+        "chiefInstructor": {
+          "name": "Maestro Eber García",
+          "accolade": "6th Dan"
+        },
+        "instructors": [],
+        "address": {
+          "line1": "Monterrey, N.L. México",
+          "line2": ""
+        },
+        "phone": "011-52-(811)-022-0431",
+        "website": "",
+        "email": "m.a.skills@gmail.com"
+      }
+    ]
+  },
+  "gallery": {
+    "images": [
+      {
+        "url": "assets/img/no-image-available.jpg",
+        "text": "No Image"
+      },
+      {
+        "url": "assets/img/no-image-available.jpg",
+        "text": "No Image"
+      },
+      {
+        "url": "assets/img/no-image-available.jpg",
+        "text": "No Image"
+      },
+      {
+        "url": "assets/img/no-image-available.jpg",
+        "text": "No Image"
+      },
+      {
+        "url": "assets/img/no-image-available.jpg",
+        "text": "No Image"
+      }
+    ]
+  }
+}
