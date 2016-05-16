@@ -13,7 +13,40 @@
     "welcome": "Bienvenidos!",
     "billSosa": "Fundado por Bill Sosa Sensei en 1995, y establecido en Dallas, Texas, U.S.A., la asociación internacional de Aikido consiste en dojos afiliados en los estados unidos y en México. IAA proporciona un ambiente en sus dojos que no es competitivo, sino mas como familia, observando valores tradicionales de la cortesía y del respecto.",
     "ueshiba": "Aikido es un arte marcial fundado por Morihei Ueshiba en Japón en los-1920's. Tiene elementos del Jujitsu y del Judo. Aikido traducido significa el camino de la armonía.",
-    "aboutAikido" : "Aprendemos unir más bien que oponer, la fuerza de un ataque. La idea es olvidarse del uno mismo, y seguir el movimiento del opositor. De esta manera, usando y mezclando la misma energía del oponente se derrota al opositor."
+    "aboutAikido" : "Aprendemos unir más bien que oponer, la fuerza de un ataque. La idea es olvidarse del uno mismo, y seguir el movimiento del opositor. De esta manera, usando y mezclando la misma energía del oponente se derrota al opositor.",
+    "benefits": {
+      "title": "Las ventajas del entrenamiento de Aikido incluyen",
+      "tiles": [
+        {
+          "title": "Promueve Salud",
+          "image": "assets/img/no-image-available.jpg",
+          "paragraphs": [
+            "Desarrolla stamina y resistencia. La respiración profunda da masajes a los órganos internos, mientras que el estirar condiciona los coyunturas."
+          ]
+        },
+        {
+          "title": "Unifica el cuerpo, la mente y el espiritu",
+          "image": "assets/img/no-image-available.jpg",
+          "paragraphs": [
+            "Aumenta la concentración mental mientras el cuerpo y la mente se entrena para trabajar juntos de una manera enfocada y eficiente."
+          ]
+        },
+        {
+          "title": "Desarrolla El Carácter",
+          "image": "assets/img/no-image-available.jpg",
+          "paragraphs": [
+            "Promueve honradez, amabilidad, respecto propio y el respecto por otros. Mejora relaciones interpersonales. Alimenta el crecimiento de la autodisciplina."
+          ]
+        },
+        {
+          "title": "Enseña La AutoDefensa",
+          "image": "assets/img/no-image-available.jpg",
+          "paragraphs": [
+            "Entrena al estudiante utilizar las técnicas eficaces de la autodefensa que neutralizan un ataque sin causar daño serio al atacante."
+          ]
+        }
+      ]
+    }
   },
   "about": {
     "founder": {
